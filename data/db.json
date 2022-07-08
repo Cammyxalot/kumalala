@@ -1,15 +1,28 @@
 {
-    "blogs":[
-        {
-        "title": "My first blog",
-        "body": "Why do we use it?",
-        "author": "Mario",
-        "id": 1
+  "blogs": [
+    {
+      "title": "Opening party",
+      "body": "Why do we use that?",
+      "author": "Yoshi",
+      "id": 2
     },
     {
-        "title": "Opening party",
-        "body": "Why do we use that?",
-        "author": "Yoshi",
-        "id": 2
-    }]
+      "title": "I talk non-sense",
+      "body": "blablabla blablabla blablabla blablabla blablabla blablabla blablabla blablabla ",
+      "author": "Yoshi",
+      "id": 3
+    },
+    {
+      "title": "Just leaving thought",
+      "body": "blablabla blablabla blablabla blablabla blablabla blablabla ",
+      "author": "Mario",
+      "id": 4
+    },
+    {
+      "title": "Hello everyone",
+      "body": "blablabla blablabla blablabla blablabla blablabla blablabla ",
+      "author": "Luidgi",
+      "id": 5
+    }
+  ]
 }
